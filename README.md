@@ -1,5 +1,7 @@
 # S3E: Semantic Symbolic State Estimation
 
+> **⚠️ Development moved to [https://github.com/CLAIR-LAB-TECHNION/s3e](https://github.com/CLAIR-LAB-TECHNION/s3e)**. This repository is no longer maintained.
+
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 ## Overview
